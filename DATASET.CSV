@@ -1,0 +1,51 @@
+Student_ID,Age,Study_Hours,Attendance,Assignments_Score,Exam_Score,Department,Gender
+1,18,5,92,85,88,Computer Science,Male
+2,19,7,95,90,94,Information Technology,Female
+3,18,3,78,70,72,Computer Science,Female
+4,20,8,98,94,96,Electronics,Male
+5,19,6,89,82,85,Mechanical,Male
+6,21,2,65,60,58,Civil,Female
+7,20,9,97,96,98,Computer Science,Male
+8,18,4,80,75,76,Information Technology,Female
+9,22,7,91,88,90,Electronics,Male
+10,19,5,86,80,82,Mechanical,Female
+11,21,6,90,85,87,Civil,Male
+12,20,10,99,98,99,Computer Science,Female
+13,18,2,70,65,62,Information Technology,Male
+14,22,8,94,92,93,Electronics,Female
+15,19,4,82,74,77,Mechanical,Male
+16,21,7,93,89,91,Civil,Female
+17,20,5,87,81,84,Computer Science,Female
+18,18,3,76,68,70,Information Technology,Male
+19,23,9,96,95,97,Electronics,Male
+20,19,6,88,84,86,Mechanical,Female
+21,21,8,95,91,94,Civil,Male
+22,20,4,79,72,74,Computer Science,Male
+23,18,7,90,86,89,Information Technology,Female
+24,22,5,85,78,81,Electronics,Male
+25,19,9,98,94,96,Mechanical,Female
+26,21,3,72,66,68,Civil,Female
+27,20,6,91,87,88,Computer Science,Male
+28,18,4,81,73,75,Information Technology,Female
+29,23,8,96,93,95,Electronics,Female
+30,19,5,84,79,80,Mechanical,Male
+31,21,7,92,88,90,Civil,Female
+32,20,9,97,95,97,Computer Science,Female
+33,18,2,68,61,60,Information Technology,Male
+34,22,6,89,83,85,Electronics,Male
+35,19,4,80,71,73,Mechanical,Female
+36,21,8,94,90,92,Civil,Male
+37,20,5,86,80,83,Computer Science,Female
+38,18,3,74,67,69,Information Technology,Female
+39,23,10,99,97,99,Electronics,Male
+40,19,6,90,85,87,Mechanical,Female
+41,21,7,93,89,91,Civil,Male
+42,20,4,82,76,78,Computer Science,Male
+43,18,8,95,91,93,Information Technology,Female
+44,22,5,87,81,83,Electronics,Female
+45,19,9,97,94,96,Mechanical,Male
+46,21,3,75,69,71,Civil,Female
+47,20,6,89,84,86,Computer Science,Male
+48,18,4,79,72,74,Information Technology,Male
+49,23,8,96,92,94,Electronics,Female
+50,19,7,91,87,89,Mechanical,Female
